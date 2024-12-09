@@ -7,6 +7,7 @@
         Console.WriteLine(FindAverage(new double[] { 7.4, 8.0, 19.0, -4.5}));
         Console.WriteLine(FindAverage(new double[] { 7.0, 7.0, 7.0, 7.0}));
         Console.WriteLine(FindAverage(new double[] { }));
+        "asd".CompareTo("asdasd");
     }
     public static double FindAverage(double[] array)
     {
